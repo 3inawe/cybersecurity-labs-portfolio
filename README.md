@@ -10,6 +10,10 @@ This repository is a structured portfolio for safe, authorized, and educational 
 - Active Directory Security
 - Network Security
 - CVE Research
+- Zero-Day Research Concepts
+- Responsible Disclosure
+- Vulnerability Intelligence
+- Patch Analysis
 - Exploit Analysis
 - Payload Testing
 - Incident Response
@@ -38,6 +42,10 @@ labs/
   active-directory-security/
   network-security/
   cve-research/
+  zero-day-research/
+  responsible-disclosure/
+  vulnerability-intelligence/
+  patch-analysis/
   exploit-analysis/
   payload-testing/
   incident-response/
