@@ -2,7 +2,7 @@
 
 This repository is a structured portfolio for safe, authorized, and educational cybersecurity work.
 
-## Scope
+## Main Lab Areas
 
 - Web Application Security
 - API Security
@@ -10,11 +10,9 @@ This repository is a structured portfolio for safe, authorized, and educational 
 - Active Directory Security
 - Network Security
 - CVE Research
-- Zero-Day Research Concepts
-- Responsible Disclosure
 - Vulnerability Intelligence
-- Patch Analysis
-- Exploit Analysis
+- Responsible Disclosure
+- Exploit Analysis Concepts
 - Payload Testing
 - Incident Response
 - Digital Forensics
@@ -27,10 +25,6 @@ This repository is a structured portfolio for safe, authorized, and educational 
 - Cloud / Container Security
 - AI-Assisted Attack Detection
 
-## Disclaimer
-
-All notes and examples in this repository are for educational and authorized security testing only. Do not test systems you do not own or do not have permission to assess. No live exploit code, real credentials, private data, or unauthorized targets should be stored here.
-
 ## Repository Structure
 
 ```text
@@ -42,10 +36,8 @@ labs/
   active-directory-security/
   network-security/
   cve-research/
-  zero-day-research/
-  responsible-disclosure/
   vulnerability-intelligence/
-  patch-analysis/
+  responsible-disclosure/
   exploit-analysis/
   payload-testing/
   incident-response/
@@ -60,10 +52,13 @@ labs/
   cloud-security/
   container-security/
 ai-security/
+templates/
+checklists/
 tools/
 screenshots/
+reports/
 ```
 
-## Goal
+## Disclaimer
 
-To show practical security learning, clean documentation, and professional organization for junior penetration testing, web application security, offensive security, digital forensics, and AI-assisted cybersecurity research.
+All content is for educational and authorized security testing only. Do not test systems you do not own or do not have permission to assess. Do not store live exploit code, credentials, private data, or unauthorized target details here.

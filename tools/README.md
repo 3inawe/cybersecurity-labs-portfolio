@@ -2,7 +2,7 @@
 
 Reserved for small, safe educational scripts.
 
-## Planned Tool Ideas
+Planned ideas:
 - Log summarizer
 - Basic IOC extractor
 - HTTP header checker

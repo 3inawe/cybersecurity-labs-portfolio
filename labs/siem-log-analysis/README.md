@@ -5,6 +5,6 @@
 - Web server logs
 - Endpoint logs
 - Firewall logs
-- Alert triage notes
+- Alert triage
 - False-positive review
 - Detection logic documentation

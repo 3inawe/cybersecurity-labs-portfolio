@@ -1,10 +1,17 @@
 # Active Directory Security
 
 ## Focus Areas
-- Domain structure review
-- User and group permission review
-- Password policy review
-- Privileged account review
+- Domain structure
+- Users and groups
+- Password policy
+- Privileged accounts
 - Kerberos concepts
-- Logging and monitoring concepts
-- Defensive hardening checklist
+- GPO hardening
+- Logging and monitoring
+
+## Defensive Checklist
+- Review privileged groups
+- Enforce strong password policy
+- Monitor failed logons
+- Limit lateral movement paths
+- Document risky permissions

@@ -1,15 +1,19 @@
 # Web Application Security
 
 ## Focus Areas
-- Authentication and authorization review
+- Authentication and authorization
 - Access control testing concepts
 - Input validation
 - Session management
-- XSS / BXSS lab notes
+- XSS / BXSS
 - SQL injection prevention
-- Secure file-upload review
+- File upload security
+- CSRF / SSRF concepts
 - Security headers
-- Logging and error-handling review
+- Logging and error handling
 
-## Safe Practice Rule
-Only test intentionally vulnerable labs, personal projects, or systems where written authorization exists.
+## Lab Evidence Ideas
+- Screenshots of safe lab results
+- Request/response notes
+- Mitigation explanation
+- Secure coding recommendation

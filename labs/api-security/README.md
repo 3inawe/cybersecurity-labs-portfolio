@@ -1,10 +1,17 @@
 # API Security
 
 ## Focus Areas
-- Authentication and token handling
-- Broken object level authorization concepts
-- Rate limiting and abuse prevention
+- Authentication
+- Authorization
+- BOLA/IDOR concepts
+- JWT handling
+- Rate limiting
 - Input validation
-- Error message review
-- API logging and monitoring
-- Secure API design checklist
+- Error handling
+- Logging and monitoring
+
+## Evidence Ideas
+- Endpoint checklist
+- Request/response notes
+- Risk rating
+- Mitigation notes

@@ -14,6 +14,9 @@ id_ed25519
 *.evtx
 *.raw
 *.img
+*.zip
+*.7z
+*.rar
 __pycache__/
 *.pyc
 .DS_Store

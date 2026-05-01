@@ -1,11 +1,17 @@
 # WordPress Security
 
 ## Focus Areas
-- Core, theme, and plugin update review
-- User role and permission review
+- Core/theme/plugin update review
+- User roles and permissions
 - Login hardening
 - Backup and recovery planning
-- File permission review
-- Security plugin configuration review
+- File permissions
+- Security plugin configuration
 - Exposure reduction
-- Defensive hardening checklist
+
+## Defensive Checklist
+- Keep core, themes, and plugins updated
+- Remove unused plugins/themes
+- Enforce strong admin passwords
+- Use least privilege roles
+- Review exposed files
